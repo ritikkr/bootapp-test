@@ -4,4 +4,4 @@ COPY . /usr/src/myapp
 
 CMD ["java", "-jar", "client-api-0.0.1-SNAPSHOT.jar"]
 
-EXPOSE 8080
+EXPOSE 9090
